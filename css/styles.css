@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 body {
@@ -29,6 +30,10 @@ h3{
     font-family: 'Dosis', sans-serif;
     letter-spacing: 8px;
     font-size: 50px;
+}
+
+p {
+    color: rgb(31, 30, 30);
 }
 
 .nav {
