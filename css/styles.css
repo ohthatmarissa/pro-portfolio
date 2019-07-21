@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: pink;
+}
+
+.header {
+    background-color: purple;
+    text-align: center;
+    padding: 200px 50px;
+    color: white;
+}
+
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 100px;
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Dosis', sans-serif;
+    letter-spacing: 8px;
+    font-size: 50px;
+}
+
+.nav {
+    background-color: purple;
+    text-align: right; 
+    padding: 20px 50px;
+    color: white;
+}
